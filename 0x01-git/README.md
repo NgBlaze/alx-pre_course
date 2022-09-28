@@ -1,1 +1,3 @@
-This is 0x01 readme file
+This is alx precourse readme file
+
+This is the updated readme file
